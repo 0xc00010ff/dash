@@ -1,5 +1,4 @@
-clear
-ls
+--
 if [ -e ./.git ]; then
     git status
 fi
