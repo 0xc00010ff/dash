@@ -10,6 +10,12 @@ git clone https://github.com/0xc00010ff/dash.git
 cd dash
 sudo make install
 ```
+Once installed, you can remove the repo
+```
+cd ..
+rm -rf dash
+```
+Let 'er rip!
 
 ### Usage: 
 `--` baby dash- cleans up the window and shows the files in the current directory. Essentially `clear && ls`
