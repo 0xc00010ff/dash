@@ -1,3 +1,5 @@
+(this thing still works btw, 2023 here)
+
 # Dash
 --- Like the most helpful shortcut ever for people who live in command-line git
 
